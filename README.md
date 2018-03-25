@@ -1,5 +1,5 @@
 # ChurnAnalysis
-Customer Churn Analysis Experiments using Classical ML (Machine Learning) algorithms and Deep Neural Network (DNN).
+Customer Churn Analysis experiments are employed using Classical ML (Machine Learning) algorithms and Deep Neural Network (DNN). A dataset from telecom is used for experimental studies.
 
 1. Dataset is created in telecom domain.
 
